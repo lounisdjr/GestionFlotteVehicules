@@ -1,0 +1,6 @@
+--- Rapport de la flotte ---
+Nombre total de véhicules : 14
+Véhicules disponibles : 11
+Kilométrage moyen : 43857.142857142855
+Tarif journalier moyen : 80.21428571428571
+Véhicules en entretien : 3

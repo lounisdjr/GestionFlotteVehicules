@@ -1,0 +1,16 @@
+id,type,marque,modele,annee,kilometrage,tarifJournalier,disponible,entretienNecessaire
+V001,Voiture,Toyota,Corolla,2021,45000,65,true,false
+V002,Voiture,Honda,Civic,2022,32000,70,true,false
+V003,Voiture,Volkswagen,Golf,2020,58000,60,false,true
+V004,Voiture,Hyundai,Elantra,2023,18000,75,true,false
+V005,Voiture,Ford,Focus,2019,72000,55,true,false
+M001,Moto,Honda,CB500,2020,22000,45,true,false
+M002,Moto,Yamaha,MT07,2021,18000,50,true,false
+M003,Moto,Kawasaki,Z650,2019,30000,48,false,true
+M004,Moto,Suzuki,GSX8S,2022,12000,55,true,false
+C001,Camion,Ford,F150,2019,98000,110,true,false
+C002,Camion,Ram,1500,2021,65000,120,false,true
+C003,Camion,Chevrolet,Silverado,2020,84000,115,true,false
+C004,Camion,GMC,Sierra,2022,39000,125,true,false
+C005,Camion,Toyota,Tundra,2023,21000,130,true,false
+V999,Voiture,BMW,X5,2022,-5000,90,true,true

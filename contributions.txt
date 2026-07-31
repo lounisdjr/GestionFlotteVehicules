@@ -1,0 +1,11 @@
+Nom : Lounis Djerroud
+
+Contribution :
+
+- Conception des classes
+- Développement des fonctionnalités
+- Lecture du fichier CSV
+- Gestion de la flotte
+- Génération des statistiques
+- Génération du rapport
+- Tests du projet
